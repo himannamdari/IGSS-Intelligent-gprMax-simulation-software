@@ -19,9 +19,13 @@ IGSS requires the following software and hardware:
 
 Python 3.6 or higher
 gprMax (https://github.com/gprMax/gprMax)
+
 NumPy (http://www.numpy.org/)
+
 Matplotlib (https://matplotlib.org/)
+
 Scikit-learn (https://scikit-learn.org/)
+
 A computer with at least 8GB of RAM
 
 To install IGSS, follow these steps:
